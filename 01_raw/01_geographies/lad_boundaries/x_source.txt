@@ -1,0 +1,4 @@
+Local Authority Districts (December 2014) Ultra Generalised Clipped Boundaries in Great Britain:
+	http://geoportal.statistics.gov.uk/datasets/3943c2114d764294a7c0079c4020d558_4
+
+	download: http://geoportal.statistics.gov.uk/datasets/3943c2114d764294a7c0079c4020d558_4.zip

@@ -1,0 +1,9 @@
+Output Area 2011 to Lower Layer Super Output Area 2011 to Middle Layer Super Output Area 2011 to Local Authority District 2011 (E+W) Lookup:
+	page = https://borders.ukdataservice.ac.uk/lut_download_data.html?data=oa11_lsoa11_msoa11_lad11_ew_lu
+	download = https://borders.ukdataservice.ac.uk/ukborders/lut_download/prebuilt/luts/engwal/OA11_LSOA11_MSOA11_LAD11_EW_LU.zip 
+
+***************
+
+Lower_layer_super_output_areas_(2001)_to_lower_layer_super_output_areas_(2011)_to_local_authority_districts_(2011)_E+W_lookup-1:
+	page = http://webarchive.nationalarchives.gov.uk/20160110195753/http://www.ons.gov.uk/ons/guide-method/geography/products/census/lookup/2001-2011/index.html
+	download = http://webarchive.nationalarchives.gov.uk/20160110195753/http://www.ons.gov.uk/ons/external-links/other/2001-lower-layer-super-output-areas--lsoa--to-2011-lsoas-and-lads.html

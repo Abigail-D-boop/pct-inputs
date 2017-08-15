@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Ignore raw travel data (very large! And sometimes private)
+**/01_raw/02_travel_data/
+
+# Ignore Intermediate travel data (very large!)
+**/02_intermediate/02_travel_data/
+
+# Ignore temporary folders
+**/02_intermediate/x_temporary_files/

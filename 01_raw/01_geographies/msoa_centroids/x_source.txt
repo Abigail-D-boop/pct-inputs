@@ -1,0 +1,3 @@
+Middle Layer Super Output Areas (December 2011) Population Weighted Centroids:
+	http://geoportal.statistics.gov.uk/datasets/b0a6d8a3dc5d4718b3fd62c548d60f81_0
+	download http://geoportal.statistics.gov.uk/datasets/b0a6d8a3dc5d4718b3fd62c548d60f81_0.zip
