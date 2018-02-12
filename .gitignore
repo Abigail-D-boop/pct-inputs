@@ -3,8 +3,11 @@
 .RData
 .Ruserdata
 
-# Ignore raw travel data (very large! And sometimes private)
-**/01_raw/02_travel_data/
+# Ignore raw travel data for commuting (very large! And sometimes private)
+**/01_raw/02_travel_data/commute
+
+# Ignore raw travel data for schools (private)
+**/01_raw/02_travel_data/school/lsoa/NPD_originals_PRIVATE
 
 # Ignore Intermediate travel data (very large!)
 **/02_intermediate/02_travel_data/
