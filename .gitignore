@@ -9,6 +9,9 @@
 # Ignore raw travel data for schools (private)
 **/01_raw/02_travel_data/school/lsoa/NPD_originals_PRIVATE
 
+# Ignore raw APS data (private)
+**/01_raw/04_other_data/APS_2016-2018
+
 # Ignore Intermediate travel data (very large!)
 **/02_intermediate/02_travel_data/
 
