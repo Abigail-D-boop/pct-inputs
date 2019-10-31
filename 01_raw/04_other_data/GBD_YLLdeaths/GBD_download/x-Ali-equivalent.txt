@@ -1,0 +1,5 @@
+data:
+https://github.com/usr110/health_adjustments/blob/master/data/gbd_ylls_deaths_england_wales.csv
+
+The underlying code is located at: https://github.com/usr110/health_adjustments/blob/master/code/script.R
+
