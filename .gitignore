@@ -17,3 +17,6 @@
 
 # Ignore temporary folders
 **/02_intermediate/x_temporary_files/
+
+# Ignore draft hilliness
+**/02_intermediate/03_hilliness_calculations/x_drafts
